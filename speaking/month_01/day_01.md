@@ -1,5 +1,5 @@
-# Day01: 
-- 
+# Day01: 나의 하루 시작하기
+- 일상생활 및 일과 (Everyday Life & Routine)
 
 
 ## 명사
@@ -63,3 +63,7 @@
 5. unwind: 긴장을 풀다, 쉬다
 - I usually watch TV to unwind after a long day.
 - 저는 긴 하루를 보낸 후 긴장을 풀기 위해 보통 TV를 봅니다.
+
+## Tip
+- 예문의 주어나 목적어를 실제 상황에 맞게 바꿔서 말해보기
+- 예를 들면 I commute to work by bus
