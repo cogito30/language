@@ -63,3 +63,7 @@
 5. double-check: 재차 확인하다
 - I always double-check my pockets before leaving the house.
 - 저는 집을 나서기 전에 항상 주머니를 재차 확인합니다.
+
+## Tip
+- 무언가를 잃어버렸을 때, lose 대신 misplace를 활용
+- 아예 분실한 것은 아니지만 어디에 두었는지 까먹어서 찾고 있는 상황에 유용
