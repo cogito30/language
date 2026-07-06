@@ -64,4 +64,6 @@
 - I finally tackled the messy closet this morning.
 - 저는 오늘 아참 마침내 지저분한 놋장을 정리했습니다.
 
-
+## Tip
+- 구체적인 행동 묘사
+- I was busy -> I was busy runnnig some erransds
