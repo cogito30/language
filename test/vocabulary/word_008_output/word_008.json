@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "relieve stress",
+      "meanings": [
+        "스트레스를 해소하다"
+      ],
+      "example": "I could relieve my stress.",
+      "translation": "저는 스트레스를 풀 수 있었습니다."
+    },
+    {
+      "word": "run",
+      "meanings": [
+        "운영하다"
+      ],
+      "example": "He is running a small café in his hometown.",
+      "translation": "그는 고향에서 작은 카페를 운영하고 있습니다."
+    },
+    {
+      "word": "sales",
+      "meanings": [
+        "판매량"
+      ],
+      "example": "The sales were poor.",
+      "translation": "판매량이 나빴습니다."
+    },
+    {
+      "word": "social skills",
+      "meanings": [
+        "사회성"
+      ],
+      "example": "Students can learn various social skills in a PE class.",
+      "translation": "학생들은 체육 시간에 다양한 사회성을 뱅루 수 있습니다."
+    },
+    {
+      "word": "sold out",
+      "meanings": [
+        "품절된"
+      ],
+      "example": "Popular music was always sold out.",
+      "translation": "인기 있는 음악은 항상 품절이었습니다."
+    },
+    {
+      "word": "spend + 금액 + on + A",
+      "meanings": [
+        "A에 금액을 지급하다"
+      ],
+      "example": "He spent $2,000 on a new computer.",
+      "translation": "그는 새 컴퓨터에 2,000 달러를 썼다."
+    },
+    {
+      "word": "spend + 시간 + 동사ing",
+      "meanings": [
+        "~하는데 ~만큼의 시간을 쓰다"
+      ],
+      "example": "I spend about 30 minutes watching TV every day.",
+      "translation": "나는 맹리 TV를 보는데 30분 정도를 쓴다."
+    },
+    {
+      "word": "started to + 동사",
+      "meanings": [
+        "~하기 시작했다"
+      ],
+      "example": "I recently started to exercise.",
+      "translation": "나는 최근에 운동하기 시작했다."
+    },
+    {
+      "word": "street market",
+      "meanings": [
+        "야외 시장"
+      ],
+      "example": "I think this picture was taken at a street market.",
+      "translation": "저는 이 사진이 야외 시장에서 찍힌 것 같습니다."
+    },
+    {
+      "word": "such as 명사",
+      "meanings": [
+        "~와 같은"
+      ],
+      "example": "I like fast food such as hamburgers or French fries.",
+      "translation": "나는 햄버거나 감자튀김 같은 패스트푸드를 좋아한다."
+    }
+  ]
+}

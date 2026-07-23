@@ -1,0 +1,87 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "at a discounted price",
+      "meanings": [
+        "할인된 가격으로"
+      ],
+      "example": "They can buy fresh groceries at a discounted price.",
+      "translation": "그들은 신선한 식료품ㅇ르 할인된 가격으로 살 수 있습니다."
+    },
+    {
+      "word": "at the same time",
+      "meanings": [
+        "동시에",
+        "함꼐"
+      ],
+      "example": "I studied and worked at the same time.",
+      "translation": "저는 공부와 일을 함꼐 변행했습니다."
+    },
+    {
+      "word": "be interested in",
+      "meanings": [
+        "~에 관심이 있다"
+      ],
+      "example": "I am interested in jogging.",
+      "translation": "저는 조깅에 관심이 있습니다."
+    },
+    {
+      "word": "be late for",
+      "meanings": [
+        "~에 늦다",
+        "지각하다"
+      ],
+      "example": "I was late for work yesterday.",
+      "translation": "저는 어제 회사에 지각했습니다."
+    },
+    {
+      "word": "be likely to",
+      "meanings": [
+        "~할 가능성이 있다"
+      ],
+      "example": "I would likely to visit a cafe if it hosted musical events.",
+      "translation": "카페가 음악 이벤트를 연다면 저는 그곳에 방문할 가능성이 있습니다."
+    },
+    {
+      "word": "be motivated",
+      "meanings": [
+        "동기부여가 되다"
+      ],
+      "example": "I can be motivated by others to study hard.",
+      "translation": "제가 열심히 공부하도록 다른 사람들로부터 동기부여가 될 수 있습니다."
+    },
+    {
+      "word": "be used to",
+      "meanings": [
+        "~에 익숙하다"
+      ],
+      "example": "I am not used to a tablet PC.",
+      "translation": "저는 태블릿 PC에 익숙하지 않습니다."
+    },
+    {
+      "word": "be willing to",
+      "meanings": [
+        "~할 의향이 있다"
+      ],
+      "example": "I am willing to have lunch in a park.",
+      "translation": "저는 공원에서 점심을 먹을 의향이 있습니다."
+    },
+    {
+      "word": "business hours",
+      "meanings": [
+        "영업시간"
+      ],
+      "example": "They should extend the business hours.",
+      "translation": "그들은 영업시간을 늘려야 합니다."
+    },
+    {
+      "word": "called",
+      "meanings": [
+        "~라 불리는"
+      ],
+      "example": "I usually drink some tea called English Breakfast.",
+      "translation": "저는 주로 English Breakfast라 불리는 차를 마십니다."
+    }
+  ]
+}

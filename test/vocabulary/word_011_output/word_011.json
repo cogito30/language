@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "fluent",
+      "meanings": [
+        "유창한"
+      ],
+      "example": "He is fluendt in Japanese.",
+      "translation": "그는 일본어에 유창합니다."
+    },
+    {
+      "word": "fortunately",
+      "meanings": [
+        "다행히도"
+      ],
+      "example": "Fortunately, the seminar will finish at 4 P.M.",
+      "translation": "다행히도, 세미나가 4시에 끝날 것입니다."
+    },
+    {
+      "word": "go on a business trip",
+      "meanings": [
+        "출장을 가다"
+      ],
+      "example": "He went to on a businsess trip to Tokyo.",
+      "translation": "그는 도쿄로 출장을 갔습니다."
+    },
+    {
+      "word": "go on a vacation",
+      "meanings": [
+        "휴가를 가다"
+      ],
+      "example": "He went to on a vacation on Rome.",
+      "translation": "그는 로마로 휴가를 갔습니다."
+    },
+    {
+      "word": "have a meeting",
+      "meanings": [
+        "회의를 하다"
+      ],
+      "example": "We are going to have a meeting about our next goal.",
+      "translation": "우리는 다음 목표에 대해서 회의를 할 것입니다."
+    },
+    {
+      "word": "interview",
+      "meanings": [
+        "면접을 진행하다"
+      ],
+      "example": "You will interview Jin Wang for the marketing manager position.",
+      "translation": "당신은 마케팅 관리자직에 지원하는 진 왕의 면접을 진행할 예정입니다."
+    },
+    {
+      "word": "leave",
+      "meanings": [
+        "떠나다"
+      ],
+      "example": "You are going to leave Philadelphia at 4 P.M.",
+      "translation": "당신은 오후 4시에 필라델피아를 떠날 예정입니다."
+    },
+    {
+      "word": "located",
+      "meanings": [
+        "~에 위치한"
+      ],
+      "example": "Our store is located at 26 Delton Road.",
+      "translation": "저희 매장은 델튼 로드 26번지에 위치해 있습니다."
+    },
+    {
+      "word": "own",
+      "meanings": [
+        "자신의"
+      ],
+      "example": "All participants need to prepare their won lunch.",
+      "translation": "모든 참가자가 자신의 점심을 준비해야 합니다."
+    },
+    {
+      "word": "promotional event",
+      "meanings": [
+        "홍보 이벤트"
+      ],
+      "example": "I am going to go to New York for the promotional events.",
+      "translation": "저는 홍보 이벤트를 위해 뉴욕에 갈 예정입니다."
+    }
+  ]
+}

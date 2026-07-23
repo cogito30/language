@@ -1,0 +1,22 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "go camping",
+      "meanings": [
+        "캠필을 가다"
+      ],
+      "example": "It is dangerous to go camping alone.",
+      "translation": "혼자서 캠핑을 하는 것은 위험합니다."
+    },
+    {
+      "word": "work performance",
+      "meanings": [
+        "업무 성과",
+        "근무 실적"
+      ],
+      "example": "His work performance was amazing.",
+      "translation": "그의 업무 성과는 놀라웠습니다."
+    }
+  ]
+}

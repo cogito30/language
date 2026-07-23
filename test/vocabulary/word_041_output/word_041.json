@@ -1,0 +1,86 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "attractive",
+      "meanings": [
+        "매력적인"
+      ],
+      "example": "Companies that invest in local parks or schools make the area more attractive for workers.",
+      "translation": "지역 공원이나 학교에 투자하는 회사들은 직원들에게 그 지역이 더 매력적이도록 만듭니다."
+    },
+    {
+      "word": "bond",
+      "meanings": [
+        "유대감"
+      ],
+      "example": "Meeting in person builds stronger emotional bonds.",
+      "translation": "직접 만나는 것은 더 강한 정서적인 유대감을 만듭니다."
+    },
+    {
+      "word": "build",
+      "meanings": [
+        "만들다"
+      ],
+      "example": "Strong communication builds better teamwork.",
+      "translation": "강력한 의사소통은 더 나은 팀워크를 만들어 줍니다."
+    },
+    {
+      "word": "calm",
+      "meanings": [
+        "진정시키다"
+      ],
+      "example": "Reading helps calm the mind.",
+      "translation": "책을 읽는 것은 마음을 진정시키는 데 도움을 줍니다."
+    },
+    {
+      "word": "commuting",
+      "meanings": [
+        "통근"
+      ],
+      "example": "It saves a lot of commuting time.",
+      "translation": "통근 시간을 많이 절약할 수 있습니다."
+    },
+    {
+      "word": "confident",
+      "meanings": [
+        "자신감 있는"
+      ],
+      "example": "Students who join so sports teams or clubs are usually more confident.",
+      "translation": "스포츠 팀이나 동아리에 가입하는 학생들은 보통 더 자신감 있습니다."
+    },
+    {
+      "word": "consistent",
+      "meanings": [
+        "지속적인"
+      ],
+      "example": "Friendships require consistent communication.",
+      "translation": "우정은 지속적인 소통이 필요합니다."
+    },
+    {
+      "word": "critical thinking",
+      "meanings": [
+        "비판적 사고"
+      ],
+      "example": "Discussion is good for critical thinking.",
+      "translation": "토론은 비판적 사고에 도움이 됩니다."
+    },
+    {
+      "word": "decompose",
+      "meanings": [
+        "분해되다"
+      ],
+      "example": "Plastic waste takes hundreds of years to decompose.",
+      "translation": "플라스틱 쓰레기는 분해되는 데 수백 년이 걸립니다."
+    },
+    {
+      "word": "emotional",
+      "meanings": [
+        "정서적인",
+        "감정적인"
+      ],
+      "example": "Family and friends provide emotional support.",
+      "translation": "가족과 친구는 정서적인 지지를 제공합니다."
+    }
+  ]
+}

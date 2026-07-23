@@ -1,0 +1,86 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "hand over",
+      "meanings": [
+        "건너다",
+        "넘기다"
+      ],
+      "example": "I think she is handing it over to a customer.",
+      "translation": "그녀는 손님에게 꽃다발을 건네주는 중인 것 같습니다."
+    },
+    {
+      "word": "kitchen utensil",
+      "meanings": [
+        "조리용 기구"
+      ],
+      "example": "Other kitchen utensils placed neatly on the counter.",
+      "translation": "다른 조리용 기구들이 조리대 위에 가지런히 놓여 있습니다."
+    },
+    {
+      "word": "kneel down",
+      "meanings": [
+        "꿇어 앉다"
+      ],
+      "example": "A woman is kneeling down and opening up a backpack.",
+      "translation": "여자가 무릎을 꿇고 앉아 배낭을 열고 있습니다."
+    },
+    {
+      "word": "lean against",
+      "meanings": [
+        "~에 기대다"
+      ],
+      "example": "A woman wearing a yellow top is leaning against the railing.",
+      "translation": "노란색 상의를 입은 여자가 난간에 기대어 있습니다."
+    },
+    {
+      "word": "lean forward",
+      "meanings": [
+        "앞으로 숙이다"
+      ],
+      "example": "He is leaning forward while playing the trumpet.",
+      "translation": "그는 몸을 앞으로 숙인 채 트럼펫을 연주하고 있습니다."
+    },
+    {
+      "word": "light bulb",
+      "meanings": [
+        "전구"
+      ],
+      "example": "He is up on the ladder and changing a light bulb.",
+      "translation": "그는 사다리에 올라가 있고 전구를 교체하고 있습니다."
+    },
+    {
+      "word": "lively",
+      "meanings": [
+        "활기찬"
+      ],
+      "example": "It looks like a lively and crowded local market.",
+      "translation": "활기차고 사람이 붐비는 지역 시장의 모습처럼 보입니다."
+    },
+    {
+      "word": "look down",
+      "meanings": [
+        "내려다 보다"
+      ],
+      "example": "He is looking down at a bicycle.",
+      "translation": "그는 자전거를 내려다보고 있습니다."
+    },
+    {
+      "word": "on top of",
+      "meanings": [
+        "~의 위에"
+      ],
+      "example": "He is sitting on top of the train.",
+      "translation": "그는 기차 위에 앉아있습니다."
+    },
+    {
+      "word": "organize",
+      "meanings": [
+        "정리하다"
+      ],
+      "example": "A few other workers are busy organizing boxes.",
+      "translation": "다른 작업자들은 박스를 정리하고 있습니다."
+    }
+  ]
+}

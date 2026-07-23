@@ -1,0 +1,86 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "work life",
+      "meanings": [
+        "직장 생활"
+      ],
+      "example": "Humorous employees make our work life more enjoyable.",
+      "translation": "유머러스한 직원들은 우리의 직장 생활을 더 즐겁게 만들어 줍니다."
+    },
+    {
+      "word": "working hours",
+      "meanings": [
+        "근무 시간"
+      ],
+      "example": "I wanted to reduce my working hours.",
+      "translation": "저는 근무 시간을 줄이고 싶었습니다."
+    },
+    {
+      "word": "worries",
+      "meanings": [
+        "걱정거리"
+      ],
+      "example": "I could forget my worries about studying.",
+      "translation": "저는 공부에 대한 걱정을 잊을 수 있었습니다."
+    },
+    {
+      "word": "applied for",
+      "meanings": [
+        "~에 지원하다"
+      ],
+      "example": "He applied for the research analyst position.",
+      "translation": "그는 연구 분석가직에 지원했습니다."
+    },
+    {
+      "word": "attend",
+      "meanings": [
+        "참석하다"
+      ],
+      "example": "I am going to atend a meeting tomorrow.",
+      "translation": "저는 내일 회의에 참석할 예정입니다."
+    },
+    {
+      "word": "bring",
+      "meanings": [
+        "가져오다"
+      ],
+      "example": "You need to bring your résumé.",
+      "translation": "이력서를 가져오세요."
+    },
+    {
+      "word": "candidate",
+      "meanings": [
+        "지원자",
+        "후보자"
+      ],
+      "example": "We'll be interviewing two candidates.",
+      "translation": "우리는 두 명의 지원자를 면접 볼 것입니다."
+    },
+    {
+      "word": "certificate",
+      "meanings": [
+        "자격증"
+      ],
+      "example": "He has a certificate in Risk Management.",
+      "translation": "그는 위기관리 분야에서 자격증을 가지고 있습니다."
+    },
+    {
+      "word": "especially",
+      "meanings": [
+        "특히"
+      ],
+      "example": "I'm especially interested in the work with plasitcs.",
+      "translation": "저는 특히 플라스틱을 이용한 작업에 관심이 많습니다."
+    },
+    {
+      "word": "fair",
+      "meanings": [
+        "박람회"
+      ],
+      "example": "A job fair is scheduled at 3 P.M.",
+      "translation": "취업 박람회가 3시에 예정되어 있습니다."
+    }
+  ]
+}

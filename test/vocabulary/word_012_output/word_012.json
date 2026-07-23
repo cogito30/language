@@ -1,0 +1,86 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "register",
+      "meanings": [
+        "등록하다"
+      ],
+      "example": "To get a discount, you should register on the internet.",
+      "translation": "할인을 받기 위해서는 인터넷에서 등록을 해야 합니다."
+    },
+    {
+      "word": "résumé",
+      "meanings": [
+        "이력서"
+      ],
+      "example": "It was not easy to write a résumé.",
+      "translation": "이력서를 작성하기가 쉽지 않았습니다."
+    },
+    {
+      "word": "sign up",
+      "meanings": [
+        "~에 등록하다"
+      ],
+      "example": "You need to sign up before December 7th.",
+      "translation": "12월 7일 전에 등록하셔야 합니다."
+    },
+    {
+      "word": "suitable",
+      "meanings": [
+        "적합한"
+      ],
+      "example": "I think she is a suitable applicant.",
+      "translation": "저는 그녀가 적합한 지원자라고 생각합니다."
+    },
+    {
+      "word": "tour",
+      "meanings": [
+        "견학"
+      ],
+      "example": "They are going to attend a tour of the factory.",
+      "translation": "그들은 공장 견학에 참여할 것입니다."
+    },
+    {
+      "word": "welcome dinner",
+      "meanings": [
+        "환영 만찬"
+      ],
+      "example": "A welcome dinner is scheduled on Friday night.",
+      "translation": "금요일 밤에는 환영 만찬이 예정되어 있습니다."
+    },
+    {
+      "word": "abroad",
+      "meanings": [
+        "해외로",
+        "해외에서"
+      ],
+      "example": "He was excited to travel abroad.",
+      "translation": "그는 해외로 여행을 하게 되어 신이 났습니다."
+    },
+    {
+      "word": "amusement park",
+      "meanings": [
+        "놀이공원"
+      ],
+      "example": "I went to an amusement park last week.",
+      "translation": "저는 작년에 놀이공원을 갔습니다."
+    },
+    {
+      "word": "anytime",
+      "meanings": [
+        "아무 떄나"
+      ],
+      "example": "I can check text messages anytime.",
+      "translation": "아무 떄나 메시지를 확인할 수 있습니다."
+    },
+    {
+      "word": "at a cheaper price",
+      "meanings": [
+        "더 저렴한 가격에"
+      ],
+      "example": "We can buy clothes at a cheaper price on the Internet.",
+      "translation": "우리는 인터넷에서 옷을 더 저렴한 가격에 구매할 수 있습니다."
+    }
+  ]
+}

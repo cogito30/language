@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "treadmill",
+      "meanings": [
+        "런닝머신"
+      ],
+      "example": "I like running on a treadmill.",
+      "translation": "저는 러닝머신 위에서 뛰는 것을 좋아합니다."
+    },
+    {
+      "word": "trust the quality",
+      "meanings": [
+        "품질을 신뢰하다"
+      ],
+      "example": "I can trust the quality of the clothes.",
+      "translation": "저는 옷의 품질ㅇ르 신뢰할 수 있습니다."
+    },
+    {
+      "word": "try on",
+      "meanings": [
+        "~을 입어보다"
+      ],
+      "example": "I can't try on clothes.",
+      "translation": "옷을 입어볼 수 없습니다."
+    },
+    {
+      "word": "twice",
+      "meanings": [
+        "두 번"
+      ],
+      "example": "I see them twice a year.",
+      "translation": "저는 그들을 일년에 두 번 만납니다."
+    },
+    {
+      "word": "uncomfortable",
+      "meanings": [
+        "불편한"
+      ],
+      "example": "It is uncomfortable to wear 3D glasses.",
+      "translation": "3D 안경을 착용하는 것은 불편합니다."
+    },
+    {
+      "word": "under stress",
+      "meanings": [
+        "스트레스를 받는"
+      ],
+      "example": "I was under a lot of stress.",
+      "translation": "저는 스트레스를 많이 받았습니다."
+    },
+    {
+      "word": "various",
+      "meanings": [
+        "다양한"
+      ],
+      "example": "There are more various clothes online.",
+      "translation": "온라인에는 더 다양한 옷이 있습니다."
+    },
+    {
+      "word": "wait for",
+      "meanings": [
+        "~을 기다리다"
+      ],
+      "example": "I need to wait for a delivery.",
+      "translation": "저는 배송을 기다려야 합니다."
+    },
+    {
+      "word": "waste",
+      "meanings": [
+        "낭비하다"
+      ],
+      "example": "I don't need to waste my time.",
+      "translation": "저는 시간을 낭비하지 않아도 됩니다."
+    },
+    {
+      "word": "well-known",
+      "meanings": [
+        "잘 알려진"
+      ],
+      "example": "Well-known brands provide convenient customer service.",
+      "translation": "잘 알려진 브랜드는 편리한 고객 서비스를 제공합니다."
+    }
+  ]
+}

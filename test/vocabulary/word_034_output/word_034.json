@@ -1,0 +1,86 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "overall",
+      "meanings": [
+        "작업복"
+      ],
+      "example": "A man wearing gray overalls is holding a laptop.",
+      "translation": "회색 작업복을 입은 남자가 노트북을 들고 있습니다."
+    },
+    {
+      "word": "pack into",
+      "meanings": [
+        "~안에 집어넣다"
+      ],
+      "example": "I think she is packing the products into the box.",
+      "translation": "그녀는 박스 안에 제품을 집어넣는 중인 것  같습니다."
+    },
+    {
+      "word": "pallet",
+      "meanings": [
+        "화물 운반다"
+      ],
+      "example": "There are also several pallets and boxes on the warehouse floor.",
+      "translation": "창고 바닥에는 여러 화물 운반대와 상자들도 놓여 있습니다."
+    },
+    {
+      "word": "path",
+      "meanings": [
+        "길"
+      ],
+      "example": "There are several people walking along the path.",
+      "translation": "길을 따라 걷고 있는 여러 사람들이 있습니다."
+    },
+    {
+      "word": "point at",
+      "meanings": [
+        "~을 가리키다"
+      ],
+      "example": "He is pointing at something and directing his coworker.",
+      "translation": "그는 무언가를 가리키며 동료에게 지시하고 있습니다."
+    },
+    {
+      "word": "protection goggles",
+      "meanings": [
+        "보안경"
+      ],
+      "example": "A man wearing a white lab coat and protection goggles is holding a flask.",
+      "translation": "흰색 실험 가운과 보안경을 착용한 남자가 플라스크를 들고 있습니다."
+    },
+    {
+      "word": "puffer",
+      "meanings": [
+        "패딩"
+      ],
+      "example": "A boy wearing a beanie and a blue puffer vest.",
+      "translation": "한 소년이 비니와 파란색 패딩 조끼를 입고 있습니다."
+    },
+    {
+      "word": "rack",
+      "meanings": [
+        "거치대",
+        "받침대"
+      ],
+      "example": "There is a rack with a test tube in it.",
+      "translation": "시험관이 들어있는 시험관 거치대가 있습니다."
+    },
+    {
+      "word": "rest one's chin",
+      "meanings": [
+        "턱을 괴다"
+      ],
+      "example": "She is resting her chin in her hands.",
+      "translation": "그녀는 손으로 턱을 괴고 있습니다."
+    },
+    {
+      "word": "safety helmet",
+      "meanings": [
+        "안전모"
+      ],
+      "example": "They are both wearing safety helmets.",
+      "translation": "그들은 둘 다 안전모를 쓰고 있습니다."
+    }
+  ]
+}

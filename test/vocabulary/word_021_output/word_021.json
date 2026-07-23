@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "relieve",
+      "meanings": [
+        "완화하다"
+      ],
+      "example": "She exercises to relieve stress.",
+      "translation": "그녀는 스트레스를 완화하기 위해 운동을 합니다."
+    },
+    {
+      "word": "ride",
+      "meanings": [
+        "놀이기구"
+      ],
+      "example": "It needs to have many rides for children.",
+      "translation": "아이들을 위한 놀이기구가 많아야 합니다."
+    },
+    {
+      "word": "rude",
+      "meanings": [
+        "무례한"
+      ],
+      "example": "Some employees were rude to customers.",
+      "translation": "몇몇 직원들은 고객에게 무례했습니다."
+    },
+    {
+      "word": "sightseeing",
+      "meanings": [
+        "관광"
+      ],
+      "example": "I would recommend my hometown for sightseeing.",
+      "translation": "저는 제 고향을 관광을 위해 추천하겠습니다."
+    },
+    {
+      "word": "solve",
+      "meanings": [
+        "해결하다"
+      ],
+      "example": "This problem is difficult to solve.",
+      "translation": "이 문제는 해결하기 어렵습니다."
+    },
+    {
+      "word": "sporting event",
+      "meanings": [
+        "스포츠 경기"
+      ],
+      "example": "I can enjoy a sporting event regardless of the weather.",
+      "translation": "저는 날씨에 상관없이 스포츠 경기를 즐길 수 있습니다."
+    },
+    {
+      "word": "take a package tour",
+      "meanings": [
+        "패키지투어를 하다"
+      ],
+      "example": "I took a package tour in Europe.",
+      "translation": "저는 유럽에서 패키지투어를 했습니다."
+    },
+    {
+      "word": "tend to",
+      "meanings": [
+        "~하는 경향이 있다"
+      ],
+      "example": "I tend to ask many questions when I study.",
+      "translation": "저는 공부할 때 많은 질문을 하는 경향이 있습니다."
+    },
+    {
+      "word": "tourist attractions",
+      "meanings": [
+        "관광지"
+      ],
+      "example": "THere are no popular tourist attractions.",
+      "translation": "그 곳에는 유명한 관광지가 없습ㄴ디ㅏ."
+    },
+    {
+      "word": "transfer",
+      "meanings": [
+        "환승하다"
+      ],
+      "example": "We can transfer conveniently.",
+      "translation": "우리는 편리하게 환승할 수 있습니다."
+    }
+  ]
+}

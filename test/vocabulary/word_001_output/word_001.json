@@ -1,0 +1,86 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "achieve",
+      "meanings": [
+        "달성",
+        "성휘하다"
+      ],
+      "example": "It is easier to achieve professional success in a big city.",
+      "translation": "대도시에서 직업적인 성공을 달성하기 더 쉽습니다."
+    },
+    {
+      "word": "already",
+      "meanings": [
+        "이미"
+      ],
+      "example": "There are already too many cafés in the city.",
+      "translation": "도시 내에는 이미 너무 많은 카페들이 있습니다."
+    },
+    {
+      "word": "anywhere at anytime",
+      "meanings": [
+        "언제 어디서든"
+      ],
+      "example": "I can download popular music anywhere at anytime.",
+      "translation": "저는 언제 어디서나 인기 있는 음악을 다운로드 할 수 있습니다."
+    },
+    {
+      "word": "argue",
+      "meanings": [
+        "말다툼을 하다"
+      ],
+      "example": "She argued with him often.",
+      "translation": "그녀는 그와 자주 말다툼을 했습니다."
+    },
+    {
+      "word": "based on 명사",
+      "meanings": [
+        "A에 기반하여"
+      ],
+      "example": "The movie was based on a true story.",
+      "translation": "그 영화는 실화르 기반으로 하였다"
+    },
+    {
+      "word": "be good at + 명사/동사ing",
+      "meanings": [
+        "~에 능숙하다"
+      ],
+      "example": "He is good at giving presentations.",
+      "translation": "그는 프레젠테이션을 하는 것에 능숙하다."
+    },
+    {
+      "word": "be related to",
+      "meanings": [
+        "~에 관련된"
+      ],
+      "example": "Most skills were not related to my work.",
+      "translation": "대부분의 스킬이 제 업무와 관련이 없습니다."
+    },
+    {
+      "word": "by + 동사ing",
+      "meanings": [
+        "~함으로써"
+      ],
+      "example": "We can protect trees by recycling paper.",
+      "translation": "종이를 재활용함으로써 우리는 나무를 보호할 수 있다."
+    },
+    {
+      "word": "by myself",
+      "meanings": [
+        "혼자서"
+      ],
+      "example": "I usually travel by myself.",
+      "translation": "나는 주로 혼자 여행을 한다."
+    },
+    {
+      "word": "close",
+      "meanings": [
+        "폐업을 하다"
+      ],
+      "example": "He closed the cafe after a year.",
+      "translation": "그는 1년 뒤 카폐를 폐업했습니다."
+    }
+  ]
+}

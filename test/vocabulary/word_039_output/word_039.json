@@ -1,0 +1,88 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "applicant",
+      "meanings": [
+        "wldnjswk",
+        "tlscjdwk"
+      ],
+      "example": "The first applicant is Emily Grant.",
+      "translation": "첫 번쨰 지원자는 에밀리 그랜트입니다."
+    },
+    {
+      "word": "award ceremony",
+      "meanings": [
+        "시상식"
+      ],
+      "example": "There is an award ceremony, the International Marketing Innovation Awards.",
+      "translation": "국제 마케팅 혁신상 시상식이 있습니다."
+    },
+    {
+      "word": "bachelor's degree",
+      "meanings": [
+        "학사 학위"
+      ],
+      "example": "She got her bachelor's degree in Biological Sciences.",
+      "translation": "그녀는 생물학 학사 학위를 취득했습니다."
+    },
+    {
+      "word": "be allowed to do",
+      "meanings": [
+        "~하는 것이 허용되다"
+      ],
+      "example": "Reservation changes are allowed up to 24hours before check-in.",
+      "translation": "예약 변경은 체크인 24시간 전까지 가능합니다."
+    },
+    {
+      "word": "be scheduled to",
+      "meanings": [
+        "~gkf 예정이다"
+      ],
+      "example": "The science fiction book is scheduled to be published in June.",
+      "translation": "공상 과학 소설 도서는 6월에 출간될 예정입니다."
+    },
+    {
+      "word": "capacity",
+      "meanings": [
+        "정원",
+        "수용 인원"
+      ],
+      "example": "The capacity is 10 people.",
+      "translation": "정원은 10명입니다."
+    },
+    {
+      "word": "demonstration",
+      "meanings": [
+        "시연"
+      ],
+      "example": "She will carry out a demonstartion on \"Digital Comics Platforms.\"",
+      "translation": "그녀는 \"디지털 만화 플랫폼\"에 대한 시연을 할 예정입니다."
+    },
+    {
+      "word": "depart",
+      "meanings": [
+        "출발하다",
+        "떠나다"
+      ],
+      "example": "You will depart from Bangkok at 11:15 a.m.",
+      "translation": "방콕에서 오전 11시 15분에 출발할 것입니다."
+    },
+    {
+      "word": "fluent",
+      "meanings": [
+        "유창한"
+      ],
+      "example": "SHe is fluent in Italian.",
+      "translation": "그녀는 이탈리아어에 유창합니다."
+    },
+    {
+      "word": "give a speech",
+      "meanings": [
+        "연설하다"
+      ],
+      "example": "Jamie Parker will give a welcome speech.",
+      "translation": "제이미 파커가 환영사를 할 에정입니다."
+    }
+  ]
+}

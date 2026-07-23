@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "performances",
+      "meanings": [
+        "인사 고과"
+      ],
+      "example": "Managers evaluate employee's performances.",
+      "translation": "상사들은 직원들의 인사 고과를 평가합니다."
+    },
+    {
+      "word": "possible",
+      "meanings": [
+        "가능한"
+      ],
+      "example": "It is possible to have a meal at a cheaper price.",
+      "translation": "더 저렴한 비용에 식사를 하는 것이 가능합니다."
+    },
+    {
+      "word": "prohibit",
+      "meanings": [
+        "금지하다"
+      ],
+      "example": "Schools should prohibit students from using electronic devices at school.",
+      "translation": "학교는 학생들이 교내에서 전자기기를 사용하는 것을 금지해야 한다."
+    },
+    {
+      "word": "punctual",
+      "meanings": [
+        "시간을 잘 지키는"
+      ],
+      "example": "He is a very punctual person.",
+      "translation": "그는 시간을 매우 잘 지키는 사람입니다."
+    },
+    {
+      "word": "quit the job",
+      "meanings": [
+        "퇴사하다"
+      ],
+      "example": "She quit the job last year.",
+      "translation": "그녀는 작년에 일을 그만두었습니다."
+    },
+    {
+      "word": "rarely",
+      "meanings": [
+        "거의 ~하지 않는다"
+      ],
+      "example": "Nowadays, I rarely drink.",
+      "translation": "요즘 저는 술을 거의 마시지 않습니다."
+    },
+    {
+      "word": "reasonable",
+      "meanings": [
+        "합리적인"
+      ],
+      "example": "The price is reasonable.",
+      "translation": "가격이 합리적입니다."
+    },
+    {
+      "word": "recharge",
+      "meanings": [
+        "충전하다"
+      ],
+      "example": "I had to recharge the smartphone.",
+      "translation": "저는 그 스마트폰을 하루에 두 번 충전해야 합니다."
+    },
+    {
+      "word": "record shop",
+      "meanings": [
+        "음반 매장"
+      ],
+      "example": "I always bought music at a record shop.",
+      "translation": "저는 항상 음악을 음반 매장에서 구매했습니다."
+    },
+    {
+      "word": "regularly",
+      "meanings": [
+        "정기적으로"
+      ],
+      "example": "I go on a business trip to the USA regularly.",
+      "translation": "저는 미국에 정기적으로 출장을 갑니다."
+    }
+  ]
+}

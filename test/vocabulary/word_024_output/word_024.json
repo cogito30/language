@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "bush",
+      "meanings": [
+        "수풀"
+      ],
+      "example": "Behind them, I can see a big bush.",
+      "translation": "그들 뒤에 커다란 수풀이 보입니다."
+    },
+    {
+      "word": "cardigan",
+      "meanings": [
+        "가디건"
+      ],
+      "example": "She is wearing a beige cardigan.",
+      "translation": "그녀는 베이지색 가디건을 입고 있습니다."
+    },
+    {
+      "word": "ceiling",
+      "meanings": [
+        "천장"
+      ],
+      "example": "Three large lights are hanging from the ceiling.",
+      "translation": "세개의 커다란 조명이 천장에 매달려 있습니다."
+    },
+    {
+      "word": "chart",
+      "meanings": [
+        "차트"
+      ],
+      "example": "I can see some charts on the whiteboard.",
+      "translation": "화이트보드에 그려진 몇 개의 차트가 보입니다."
+    },
+    {
+      "word": "check in",
+      "meanings": [
+        "체크인을 하다"
+      ],
+      "example": "It seems like they are checking in.",
+      "translation": "그들은 호텔에 체크인하는 것처럼 보입니다."
+    },
+    {
+      "word": "checkered skirt",
+      "meanings": [
+        "체크무늬 치마"
+      ],
+      "example": "She is wearing a checkered skirt.",
+      "translation": "그녀는 체크무늬 치마를 입고 있습니다."
+    },
+    {
+      "word": "construction site",
+      "meanings": [
+        "공사장"
+      ],
+      "example": "I think this picture was taken at a construction site.",
+      "translation": "저는 이 사진이 공사장에서 찍혔다고 생각합니다."
+    },
+    {
+      "word": "do a video chat",
+      "meanings": [
+        "화상 채팅을 하다"
+      ],
+      "example": "SHe is doing a video chat.",
+      "translation": "그녀가 화상 채팅을 하고 있습니다."
+    },
+    {
+      "word": "do yoga",
+      "meanings": [
+        "요가를 하다"
+      ],
+      "example": "A woman is doing yoga.",
+      "translation": "한 여자가 요가를 하고 있습니다."
+    },
+    {
+      "word": "docked",
+      "meanings": [
+        "정박된"
+      ],
+      "example": "Some boats are docked",
+      "translation": "몇 대의 보트가 정박되이 있습니다."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "go backpacking",
+      "meanings": [
+        "배낭여행을 하다"
+      ],
+      "example": "I went backpacking to Europe.",
+      "translation": "저는 유럽으로 배낭여행을 갔습니다."
+    },
+    {
+      "word": "go jogging",
+      "meanings": [
+        "조깅을 하다"
+      ],
+      "example": "It is dangerous to go jogging in the evening.",
+      "translation": "저녁에 조깅을 하는 것은 위험합니다."
+    },
+    {
+      "word": "graduate",
+      "meanings": [
+        "졸업하다"
+      ],
+      "example": "I graduate from university last year.",
+      "translation": "저는 작년에 대학을 졸업했습니다."
+    },
+    {
+      "word": "hard",
+      "meanings": [
+        "열심히"
+      ],
+      "example": "I worked hard to get a bonus.",
+      "translation": "저는 보너스를 받기 위해 열심히 일했습니다."
+    },
+    {
+      "word": "have a discussion",
+      "meanings": [
+        "상의",
+        "논의하다"
+      ],
+      "example": "I don't have to have a discussion to select a movie.",
+      "translation": "저는 영화를 선택하기 위해 상의하지 않아도 됩니다."
+    },
+    {
+      "word": "hiking",
+      "meanings": [
+        "등산"
+      ],
+      "example": "I enjoy hiking in my hometown.",
+      "translation": "저는 고향에서 등산을 즐깁니다."
+    },
+    {
+      "word": "hold promotional campaign",
+      "meanings": [
+        "홍보 캠페인을 열다"
+      ],
+      "example": "It is a good idea to hold promotional campaigns on SNS.",
+      "translation": "SNS에 홍보 캠페인을 여는 것은 좋은 아이디어입니다."
+    },
+    {
+      "word": "impose a fine",
+      "meanings": [
+        "벌금을 부과하다"
+      ],
+      "example": "We need to impose a fine if they don't participate in recycling.",
+      "translation": "우리는 재활용에 참여하지 않는 사람들에게 벌금을 부과해야 합니다."
+    },
+    {
+      "word": "impulse purchase",
+      "meanings": [
+        "충동 구매"
+      ],
+      "example": "I can avoid making an impulse purchase.",
+      "translation": "저는 충동구매를 피할 수 있습니다."
+    },
+    {
+      "word": "in person",
+      "meanings": [
+        "직접"
+      ],
+      "example": "I can try on clothes in person.",
+      "translation": "저는 직접 옷을 입어볼 수 있습니다."
+    }
+  ]
+}

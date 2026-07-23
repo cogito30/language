@@ -1,0 +1,87 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "be expected to do",
+      "meanings": [
+        "~할 것으로 예상되다"
+      ],
+      "example": "The road work is expected to finish soon.",
+      "translation": "도로 공사는 곧 마무리 될 예정입니다."
+    },
+    {
+      "word": "be known for",
+      "meanings": [
+        "~으로 알려져 있다"
+      ],
+      "example": "Ms. Johnson is well known for her outstanding work.",
+      "translation": "존슨 씨는 뛰어난 업무 능력으로 잘 알려져 있습니다."
+    },
+    {
+      "word": "be sponsored by",
+      "meanings": [
+        "~가 후원하다"
+      ],
+      "example": "Today's radio program is sponsored by Vintage Collectors.",
+      "translation": "오늘의 라디오 프로그램은 빈티지 컬렉터스가 후원합니다."
+    },
+    {
+      "word": "chilly",
+      "meanings": [
+        "쌀쌀한"
+      ],
+      "example": "Temperatures will remain chilly.",
+      "translation": "기온은 여전히 쌀쌀할 것입니다."
+    },
+    {
+      "word": "commemorate",
+      "meanings": [
+        "기념하다"
+      ],
+      "example": "We plan to commemorate our tenth anniversary this year.",
+      "translation": "저희는 올해 10주년을 기념할 예정입니다."
+    },
+    {
+      "word": "commitment",
+      "meanings": [
+        "헌신",
+        "약속"
+      ],
+      "example": "I want to recognize our team for your commitment.",
+      "translation": "저희 팀의 헌신을 인정하고 싶습니다."
+    },
+    {
+      "word": "complimentary",
+      "meanings": [
+        "무료의"
+      ],
+      "example": "Everyone that joins will get a complimentary T-shirt.",
+      "translation": "참가자 전원에게는 티셔츠가 무료로 제공됩니다."
+    },
+    {
+      "word": "expand",
+      "meanings": [
+        "확장하다"
+      ],
+      "example": "Thanks to his hard work, our company has expanded internationally.",
+      "translation": "그의 노력 덕분에, 저희 회사는 국제적으로 사업을 확장했습니다."
+    },
+    {
+      "word": "focus on",
+      "meanings": [
+        "~에 집중하다"
+      ],
+      "example": "We also focused on providing good customer service.",
+      "translation": "저희는 좋은 고객 서비스를 제공하는 데에도 집중했습니다."
+    },
+    {
+      "word": "go over",
+      "meanings": [
+        "검토하다",
+        "살피다"
+      ],
+      "example": "We will go over some new office rules.",
+      "translation": "오늘은 새로운 회사 규정을 검토했습니다."
+    }
+  ]
+}

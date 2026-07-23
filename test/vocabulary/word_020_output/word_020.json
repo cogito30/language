@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "performance",
+      "meanings": [
+        "성능"
+      ],
+      "example": "The most important factor is performance.",
+      "translation": "가장 중요한 점은 성능입니다."
+    },
+    {
+      "word": "practical",
+      "meanings": [
+        "실용적인"
+      ],
+      "example": "Cash is a practical gift.",
+      "translation": "현금은 실용적인 선물입니다."
+    },
+    {
+      "word": "prefer",
+      "meanings": [
+        "선호하다"
+      ],
+      "example": "I prefer to exercise at home.",
+      "translation": "저는 집에서 운동하는 것을 선호합니다."
+    },
+    {
+      "word": "promotion",
+      "meanings": [
+        "판촉 상품"
+      ],
+      "example": "Online shopping malls offer various promotions.",
+      "translation": "온라인 쇼핑몰은 다양한 판촉 상품을 제공합니다."
+    },
+    {
+      "word": "provide",
+      "meanings": [
+        "제공하다"
+      ],
+      "example": "They provide excellent customer service.",
+      "translation": "그들은 훌륭한 고객 서비스를 제공합니다."
+    },
+    {
+      "word": "public transportation",
+      "meanings": [
+        "대중교통"
+      ],
+      "example": "I travel by public transportation almost every day.",
+      "translation": "저는 거의 매일 대중교통으로 이동합니다."
+    },
+    {
+      "word": "purchase",
+      "meanings": [
+        "구매하다"
+      ],
+      "example": "I would purchase a computer over the Internet.",
+      "translation": "저는 컴퓨터를 인터넷에서 구매하겠습니다."
+    },
+    {
+      "word": "recommend",
+      "meanings": [
+        "추천하다"
+      ],
+      "example": "I recommend buying clothes online.",
+      "translation": "저는 온라인에서 옷을 사는 것을 추천합니다."
+    },
+    {
+      "word": "recycle center",
+      "meanings": [
+        "재활용센터"
+      ],
+      "example": "I usually take them to recycle center near my apartment.",
+      "translation": "저는 주로 아파트 근처에 있는 재활용센터에 가져갑니다."
+    },
+    {
+      "word": "regardless of 명사",
+      "meanings": [
+        "~에 상관없이"
+      ],
+      "example": "We can exercise regardless of time.",
+      "translation": "우리는 시간에 상관없이 운동을 할 수 있습니다."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "working clothes",
+      "meanings": [
+        "작업복"
+      ],
+      "example": "He is wearing orange working clothes.",
+      "translation": "그는 오렌지색 작업복을 입고 있습니다."
+    },
+    {
+      "word": "write something on a note",
+      "meanings": [
+        "노트에 뭔가를 적다"
+      ],
+      "example": "A woman is writing something on a note.",
+      "translation": "한 여자가 노트에 뭔가를 적고 있습니다."
+    },
+    {
+      "word": "amenity",
+      "meanings": [
+        "편의 시설"
+      ],
+      "example": "There are various amenities in a large city.",
+      "translation": "큰 도시에는 다양한 편의시설들이 있습니다."
+    },
+    {
+      "word": "at work",
+      "meanings": [
+        "직장에서"
+      ],
+      "example": "She teaches English at work.",
+      "translation": "그녀는 직장에서 영어를 가르칩니다."
+    },
+    {
+      "word": "be conducted",
+      "meanings": [
+        "진행되다"
+      ],
+      "example": "'The Power of SNS' will be conducted by Dr. James Lynch.",
+      "translation": "'SNS의 힘'이 제임스 린치 박사로부터 진행도리 것입니다."
+    },
+    {
+      "word": "be held",
+      "meanings": [
+        "~가 열리다"
+      ],
+      "example": "The conference will be held at the LDS Conference Center.",
+      "translation": "컨퍼런스는 LDS 컨퍼런스 센터에서 열릴 것입니다."
+    },
+    {
+      "word": "be scheduled",
+      "meanings": [
+        "~가 예정되어 있다"
+      ],
+      "example": "The company tour is scheduled at 4 P.M.",
+      "translation": "사내 투어는 오후 4시에 예정되어 있습니다."
+    },
+    {
+      "word": "electric",
+      "meanings": [
+        "전기로 작동하는"
+      ],
+      "example": "I bought an electric car.",
+      "translation": "저는 전기차를 구매했습니다."
+    },
+    {
+      "word": "for free",
+      "meanings": [
+        "무료로"
+      ],
+      "example": "They provide travel information for free.",
+      "translation": "그들은 여행 정보를 무료로 제공합니다."
+    },
+    {
+      "word": "foreign language",
+      "meanings": [
+        "외국어"
+      ],
+      "example": "It is difficult to study at a foreign language.",
+      "translation": "외국어를 공부하는 것은 어렵습니다."
+    }
+  ]
+}

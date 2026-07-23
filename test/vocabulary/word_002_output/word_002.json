@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "company dinner",
+      "meanings": [
+        "회식"
+      ],
+      "example": "We had company dinners very often.",
+      "translation": "우리는 회식을 매우 자주 했습니다."
+    },
+    {
+      "word": "compete",
+      "meanings": [
+        "경쟁하다"
+      ],
+      "example": "It is very difficult to compete with large franchise cafes.",
+      "translation": "대형 프렌차이즈 카페들과 경쟁하는 것은 너무 어렵습니다."
+    },
+    {
+      "word": "competitive",
+      "meanings": [
+        "경쟁이 심한"
+      ],
+      "example": "It is very competitive to run a business in a big city.",
+      "translation": "대도시에서 사업을 운영하는 것은 경쟁이 매우 심합니다."
+    },
+    {
+      "word": "conveniently",
+      "meanings": [
+        "편리하게"
+      ],
+      "example": "We can buy music more conveniently.",
+      "translation": "우리는 음악을 더 편리하게 구매할 수 있습니다."
+    },
+    {
+      "word": "curriculum",
+      "meanings": [
+        "교과과정"
+      ],
+      "example": "The curriculum was very difficult.",
+      "translation": "교과과정이 매우 어려웠습니다."
+    },
+    {
+      "word": "delay",
+      "meanings": [
+        "지연 시키다."
+      ],
+      "example": "Our work was delayed often.",
+      "translation": "업무가 자주 지연되었습니다."
+    },
+    {
+      "word": "detailed",
+      "meanings": [
+        "자세한"
+      ],
+      "example": "I recieved detailed feedback on my résumé.",
+      "translation": "저는 이력서에 대한 자세한 피드백을 받았습니다."
+    },
+    {
+      "word": "difficulty",
+      "meanings": [
+        "어려움"
+      ],
+      "example": "They can find students' difficulties easily and give a solution.",
+      "translation": "그들은 학생들의 어려움을 쉽게 발견하고 이에 해결책을 제시해줄 수 있습니다."
+    },
+    {
+      "word": "divide",
+      "meanings": [
+        "나누다"
+      ],
+      "example": "We can divide our work efficiently.",
+      "translation": "우리는 일을 효율적으로 나눌 수 있습니다."
+    },
+    {
+      "word": "don't have enough 명사",
+      "meanings": [
+        "~가 충분하지 않다"
+      ],
+      "example": "High school students in Korea don't have enough free time.",
+      "translation": "한국의 고등학생들은 자유시간이 충분하지 않다."
+    }
+  ]
+}

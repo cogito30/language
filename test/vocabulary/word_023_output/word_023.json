@@ -1,0 +1,86 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "while",
+      "meanings": [
+        "~를 하면서"
+      ],
+      "example": "I like reading books while drinking some coffee.",
+      "translation": "저는 커피를 마시며 책을 읽는 것ㅇ르 좋아합니다."
+    },
+    {
+      "word": "work overtime",
+      "meanings": [
+        "야근을 하다"
+      ],
+      "example": "I work overtime about three times a week.",
+      "translation": "저는 일주일에 세 번 정도 야근을 합니다."
+    },
+    {
+      "word": "worry about",
+      "meanings": [
+        "~에 대해 걱정하다"
+      ],
+      "example": "I don't have to worry about the battery.",
+      "translation": "배터리에 대해서 걱정하지 않아도 됩니다."
+    },
+    {
+      "word": "yet",
+      "meanings": [
+        "아직"
+      ],
+      "example": "The computer is not repaired yet.",
+      "translation": "컴퓨터는 아직 수리되지 않았습니다."
+    },
+    {
+      "word": "across from",
+      "meanings": [
+        "~의 맞은편에"
+      ],
+      "example": "Across from them, a man is writing something on the paper.",
+      "translation": "그들의 맞은편에, 한 남자가 종이에 무너가를 쓰고 있습니다."
+    },
+    {
+      "word": "along",
+      "meanings": [
+        "~을 따라서"
+      ],
+      "example": "Many cars are parked along the road.",
+      "translation": "많은 차가 길을 따라서 주차되어 있습니다."
+    },
+    {
+      "word": "apron",
+      "meanings": [
+        "앞치마"
+      ],
+      "example": "She is wearing a green apron.",
+      "translation": "그녀는 녹색 앞치마를 두르고 있습니다."
+    },
+    {
+      "word": "assingment",
+      "meanings": [
+        "과제"
+      ],
+      "example": "They are doing an assignment together.",
+      "translation": "그들이 함께 과제를 하고 있습니다."
+    },
+    {
+      "word": "bookshelf",
+      "meanings": [
+        "책장"
+      ],
+      "example": "Behind him, I can see many bookshelves.",
+      "translation": "남자의 뒤에 많은 책장이 보입니다."
+    },
+    {
+      "word": "broken down",
+      "meanings": [
+        "고장 난",
+        "작동이 안되는"
+      ],
+      "example": "The car is broken down.",
+      "translation": "차가 고장 났습니다."
+    }
+  ]
+}

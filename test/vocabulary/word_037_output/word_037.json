@@ -1,0 +1,87 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "enjoyable",
+      "meanings": [
+        "즐거운"
+      ],
+      "example": "No ads make the app more enjoyable.",
+      "translation": "광고가 없으면 앱을 더 즐겁게 사용할 수 있습니다."
+    },
+    {
+      "word": "escape",
+      "meanings": [
+        "벗어나다",
+        "탈출하다"
+      ],
+      "example": "Camping gives me a chance to escape from city life.",
+      "translation": "캠핑은 도시의 일상으로부터 벗어나게 해줍니다."
+    },
+    {
+      "word": "home decor",
+      "meanings": [
+        "실내 장식"
+      ],
+      "example": "It's becuase it's a great price of home decor.",
+      "translation": "왜냐하면 그것은 훌륭한 실내 장식이기 때문입니다."
+    },
+    {
+      "word": "in person",
+      "meanings": [
+        "직접"
+      ],
+      "example": "I can talk with the seller or artist in person.",
+      "translation": "직접 판매원이나 아티스트오 이야기할 수 있습니다."
+    },
+    {
+      "word": "indicator",
+      "meanings": [
+        "기준",
+        "척도"
+      ],
+      "example": "It's a safe indicator that I can rely on.",
+      "translation": "그것은 신뢰할 수 있는 확실한 기준입니다."
+    },
+    {
+      "word": "instead of",
+      "meanings": [
+        "~대신에"
+      ],
+      "example": "I often eat fruit or nuts instead of candy.",
+      "translation": "저는 사탕 대신에 과일이나 견과류를 자주 먹습니다."
+    },
+    {
+      "word": "interruption",
+      "meanings": [
+        "방해"
+      ],
+      "example": "I can focus only on the content without interruptinos.",
+      "translation": "방해 없이 콘텐츠에만 집중할 수 있습니다."
+    },
+    {
+      "word": "long-distance",
+      "meanings": [
+        "장거리"
+      ],
+      "example": "It is more convenient for long-distance.",
+      "translation": "장거리 여행에 더 편리합니다."
+    },
+    {
+      "word": "make money",
+      "meanings": [
+        "돈을 벌다"
+      ],
+      "example": "Working is all about making more money.",
+      "translation": "일하는 이유는 결국 더 많은 돈을 ㅂ러기 위해서입니다."
+    },
+    {
+      "word": "misleading",
+      "meanings": [
+        "오해의 소지가 있는"
+      ],
+      "example": "Wrong information can be very misleading.",
+      "translation": "잘못된 정보는 오해의 소지가 있을 수 있습니다."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "graduate",
+      "meanings": [
+        "졸업하다"
+      ],
+      "example": "She graduated in 2018.",
+      "translation": "그녀는 2018년에 졸업ㅎ했습니다."
+    },
+    {
+      "word": "located",
+      "meanings": [
+        "~에 위치한"
+      ],
+      "example": "Evergreen Senior Center located at 79 Elam Street will reopen at 10 a.m.",
+      "translation": "엘람 스트리트 79번지에 위치한 에버그린 시니어 센터는 오전 10시에 다시 문을 엽니다."
+    },
+    {
+      "word": "postpone",
+      "meanings": [
+        "연기하다",
+        "미루다"
+      ],
+      "example": "The 1 p.m. interview has been postponed to 2 p.m.",
+      "translation": "오전 1시에 예정된 면접이 오후 2시로 연기되었습니다."
+    },
+    {
+      "word": "pre-register",
+      "meanings": [
+        "사전 등록"
+      ],
+      "example": "You can get 10 percent discount if you pre-register.",
+      "translation": "사전 등록하시면 10퍼센트 할인을 받으실 수 있습니다."
+    },
+    {
+      "word": "provide",
+      "meanings": [
+        "제공하다"
+      ],
+      "example": "Lunch will be provided in the dining hall.",
+      "translation": "점심은 식당에서 제공도리 예정입니다."
+    },
+    {
+      "word": "registration",
+      "meanings": [
+        "등록"
+      ],
+      "example": "The deadline for registration is August 25th.",
+      "translation": "등록 마감일은 8월 25일입니다."
+    },
+    {
+      "word": "related to",
+      "meanings": [
+        "~와 관련 있는"
+      ],
+      "example": "Only online reservation are accepted.",
+      "translation": "온라인 예약만 가능합니다."
+    },
+    {
+      "word": "upcoming",
+      "meanings": [
+        "곧 있을",
+        "다가오는"
+      ],
+      "example": "You have to attend a marketing team meeting for upcoming events.",
+      "translation": "곧 있을 행사 관련 마케팅 팀 회의에 참석하셔야 합니다."
+    },
+    {
+      "word": "access",
+      "meanings": [
+        "접근하다"
+      ],
+      "example": "Music is easy to access at anytime.",
+      "translation": "음악은 언제든지 쉽게 접할 수 있습니다."
+    },
+    {
+      "word": "atmosphere",
+      "meanings": [
+        "분위기"
+      ],
+      "example": "Sharing food or playing games together creates a friendly atmosphere.",
+      "translation": "함께 음식을 나누거나 게임을 하면서 친근한 분위기가 만들어집니다."
+    }
+  ]
+}

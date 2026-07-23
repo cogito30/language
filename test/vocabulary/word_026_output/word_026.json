@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "make copies",
+      "meanings": [
+        "복사를 하다"
+      ],
+      "example": "A woman is making copies.",
+      "translation": "한 여자가 복사를 하고 있습니다."
+    },
+    {
+      "word": "mug",
+      "meanings": [
+        "머그잔"
+      ],
+      "example": "A woman is holding a mug.",
+      "translation": "한 여자가 머그잔ㅇ르 들고 있습니다."
+    },
+    {
+      "word": "necessary",
+      "meanings": [
+        "필요한"
+      ],
+      "example": "THat won't be necessary.",
+      "translation": "그러지 않아도 됩니다."
+    },
+    {
+      "word": "on the wall",
+      "meanings": [
+        "벽에"
+      ],
+      "example": "THere is a painting on the wall.",
+      "translation": "벽에 그림이 걸려 있습니다."
+    },
+    {
+      "word": "outdoor activity",
+      "meanings": [
+        "야외 활동"
+      ],
+      "example": "The weather is good for outdoor activities.",
+      "translation": "날씨가 야외 활동에 좋습니다."
+    },
+    {
+      "word": "over the phone",
+      "meanings": [
+        "전화로"
+      ],
+      "example": "She is taking an order over the phone.",
+      "translation": "그녀가 전화로 주문을 받고 있습니다."
+    },
+    {
+      "word": "plant",
+      "meanings": [
+        "식물"
+      ],
+      "example": "On the table, there are many plants.",
+      "translation": "테이블 위에 많은 식물이 있습니다."
+    },
+    {
+      "word": "pull",
+      "meanings": [
+        "끌다"
+      ],
+      "example": "A woman is pulling a black suitcase.",
+      "translation": "한 여자가 검정색 여행용 가방을 끌고 있습니다."
+    },
+    {
+      "word": "safety vest",
+      "meanings": [
+        "안전 조끼"
+      ],
+      "example": "He is wearing a safety vest.",
+      "translation": "그는 안전 조끼를 입고 있습니다."
+    },
+    {
+      "word": "serve",
+      "meanings": [
+        "음식을 제공하다"
+      ],
+      "example": "A woman is serving some food to the customers.",
+      "translation": "한 여자가 손님들에게 음식을 제공하고 있습니다."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "title": "Vocabulary",
+  "vocabulary": [
+    {
+      "word": "look up",
+      "meanings": [
+        "검색하다"
+      ],
+      "example": "I could look up the informatino conveniently.",
+      "translation": "저는 정보를 편리하게 검색할 수 있었습니다."
+    },
+    {
+      "word": "major in",
+      "meanings": [
+        "~을 전공하다"
+      ],
+      "example": "She majored in journalism.",
+      "translation": "그녀는 언론학을 전공했습니다."
+    },
+    {
+      "word": "make + 명사 + 형용사",
+      "meanings": [
+        "~하게 만들다"
+      ],
+      "example": "Listening to music makes me happy.",
+      "translation": "음악을 듣는 것은 나를 행복하게 만든다."
+    },
+    {
+      "word": "make a decision",
+      "meanings": [
+        "결정을 내리다"
+      ],
+      "example": "We can make a decision quickly.",
+      "translation": "우리는 신속하게 결정을 내릴 수 있습니다."
+    },
+    {
+      "word": "make a good impression",
+      "meanings": [
+        "좋은 인상을 주다"
+      ],
+      "example": "She always makes a good impression on her coworkers.",
+      "translation": "그녀는 직장동료들에게 언제나 좋은 인상을 줍니다."
+    },
+    {
+      "word": "make a mistake",
+      "meanings": [
+        "실수를 하다"
+      ],
+      "example": "I sometimes make mistakes at work.",
+      "translation": "가끔씩 업무 중에 실수를 합니다."
+    },
+    {
+      "word": "move",
+      "meanings": [
+        "이사를 가다"
+      ],
+      "example": "I moved to a big city called Seoul.",
+      "translation": "저는 서울이라는 큰 도시로 이사를 갔습니다."
+    },
+    {
+      "word": "paid vacation",
+      "meanings": [
+        "유급 휴가"
+      ],
+      "example": "I went on a paid vacation.",
+      "translation": "저는 유급 휴가를 갔습니다."
+    },
+    {
+      "word": "participate",
+      "meanings": [
+        "참여하다"
+      ],
+      "example": "I usually participate in training at work.",
+      "translation": "저는 보통 직장 내 교육에 참여합니다."
+    },
+    {
+      "word": "performance evaluation",
+      "meanings": [
+        "인사 고과"
+      ],
+      "example": "The test result was reflected in the performance evaluation.",
+      "translation": "시험 결과 인사 고과에 반영되었습니다."
+    }
+  ]
+}
