@@ -10,13 +10,14 @@ def make_blank(sentence: str, word: str) -> str:
         return sentence + f" (힌트: {word} 가 포함된 문장)"
     return pattern.sub("________", sentence)
 
-def generate_all_words_quiz(base_directory: str):
-    base_path = Path(base_directory)
+def generate_quiz_for_folder(input_dir: Path, output_dir: Path):
+    """특정 폴더의 md 파일을 읽어 퀴즈와 정답지를 결과 폴더에 생성합니다."""
     vocab_list = []
+    folder_name = input_dir.name
 
-    # 1. 모든 하위 폴더의 .md 파일에서 데이터 모두 추출
-    for file_path in base_path.rglob("*.md"):
-        # 시험지와 정답지 파일 자체는 파싱 대상에서 제외
+    # 1. 대상 폴더의 모든 .md 파일에서 데이터 추출
+    for file_path in input_dir.rglob("*.md"):
+        # 기존 시험지/정답지가 섞여 있다면 제외
         if "Quiz" in file_path.name or "Answer" in file_path.name:
             continue
             
@@ -51,10 +52,10 @@ def generate_all_words_quiz(base_directory: str):
             vocab_list.append(current_item)
 
     if not vocab_list:
-        print("입력된 단어가 없습니다.")
+        print(f"⚠️ [{folder_name}] 폴더에 단어 데이터가 없거나 형식이 맞지 않습니다.")
         return
 
-    print(f"✅ 총 {len(vocab_list)}개의 단어를 찾았습니다. 모든 단어에 대해 4가지 유형의 문제를 생성합니다.\n")
+    print(f"✅ [{folder_name}] 총 {len(vocab_list)}개의 단어 추출 완료. 퀴즈 생성 중...")
 
     # 2. 각 파트별로 모든 단어를 넣되, 순서를 랜덤하게 섞음
     part1_words = random.sample(vocab_list, len(vocab_list))
@@ -62,14 +63,14 @@ def generate_all_words_quiz(base_directory: str):
     part3_words = random.sample(vocab_list, len(vocab_list))
     part4_words = random.sample(vocab_list, len(vocab_list))
 
-    quiz_file = base_path / "Master_Quiz.md"
-    answer_file = base_path / "Master_Answer.md"
+    # 결과물 파일 이름 설정 (폴더명_Quiz.md 형태)
+    quiz_file = output_dir / f"{folder_name}_Quiz.md"
+    answer_file = output_dir / f"{folder_name}_Answer.md"
 
     # 3. 시험지 작성
     with open(quiz_file, "w", encoding="utf-8") as qf:
-        qf.write("# 📝 Master English Quiz (All Words)\n\n")
+        qf.write(f"# 📝 Master English Quiz - {folder_name}\n\n")
         
-        # 유형 1
         qf.write("## Part 1. 단어 뜻 맞추기\n")
         for i, item in enumerate(part1_words, 1):
             if i % 2 == 1:
@@ -77,25 +78,22 @@ def generate_all_words_quiz(base_directory: str):
             else:
                 qf.write(f"{i}. **{item['meaning']}** : ____________________\n")
 
-        # 유형 2
         qf.write("\n## Part 2. 문장 빈칸 채우기\n")
         for i, item in enumerate(part2_words, 1):
             blanked = make_blank(item['eng_sent'], item['word'])
             qf.write(f"{i}. {item['kor_sent']}\n   -> {blanked}\n\n")
 
-        # 유형 3
         qf.write("## Part 3. 문장 영작하기\n")
         for i, item in enumerate(part3_words, 1):
             qf.write(f"{i}. {item['kor_sent']} (단어: {item['word']})\n   -> ________________________________________\n\n")
 
-        # 유형 4
         qf.write("## Part 4. 문장 해석하기\n")
         for i, item in enumerate(part4_words, 1):
             qf.write(f"{i}. {item['eng_sent']}\n   -> ________________________________________\n\n")
 
     # 4. 정답지 작성
     with open(answer_file, "w", encoding="utf-8") as af:
-        af.write("# ✅ Master Answer Key\n\n")
+        af.write(f"# ✅ Master Answer Key - {folder_name}\n\n")
         
         af.write("## Part 1 정답\n")
         for i, item in enumerate(part1_words, 1):
@@ -113,32 +111,38 @@ def generate_all_words_quiz(base_directory: str):
         for i, item in enumerate(part4_words, 1):
             af.write(f"{i}. **{item['kor_sent']}**\n")
 
-    return quiz_file, answer_file
+    print(f"   -> 생성 완료: {quiz_file.name}, {answer_file.name}")
+
 
 # ==========================================
-# 실행 부분 (테스트 데이터 생성 포함)
+# 실행 부분
 # ==========================================
 if __name__ == "__main__":
-    TARGET_DIR = './Test_Vocabulary'
-    Path(TARGET_DIR).mkdir(parents=True, exist_ok=False)
+    BASE_DIR = Path('.') # 현재 스크립트가 실행되는 디렉토리
+    INPUT_DIR = BASE_DIR / 'input' # 타겟 폴더들이 있는 input 폴더
+    OUTPUT_DIR = BASE_DIR / 'Quiz_Results' # 결과를 모아둘 새 폴더명
     
-#     # 3개의 단어만 샘플로 생성하여 모든 단어가 4개 파트에 전부 나오는지 테스트
-#     sample_data = """# Vocabulary(English)
-# 1. Apple: 사과
-# - I eat an apple.
-# - 나는 사과를 먹는다.
-# 2. Water: 물
-# - Drink water.
-# - 물을 마셔라.
-# 3. Book: 책
-# - Read a book.
-# - 책을 읽어라.
-# """
-#     with open(Path(TARGET_DIR) / "001.md", "w", encoding="utf-8") as f:
-#         f.write(sample_data)
+    # 1. input 폴더 존재 여부 확인
+    if not INPUT_DIR.exists() or not INPUT_DIR.is_dir():
+        print(f"⚠️ 오류: '{INPUT_DIR.name}' 폴더를 찾을 수 없습니다.")
+        print("파이썬 스크립트가 위치한 곳에 'input' 폴더를 만들고 그 안에 '001-010' 등의 폴더를 넣어주세요.")
+    else:
+        # 2. 결과물을 저장할 폴더 생성
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
         
-    quiz_file, answer_file = generate_all_words_quiz(TARGET_DIR)
-    
-    # 생성된 시험지 결과 콘솔에 출력 (확인용)
-    with open(quiz_file, "r", encoding="utf-8") as q:
-        print(q.read())
+        # 3. 폴더 이름이 '001-010', '011-020'처럼 숫자 3자리-숫자 3자리 패턴인지 확인하는 정규식
+        folder_pattern = re.compile(r'^\d{3}-\d{3}$')
+        
+        # input 디렉토리 내에서 패턴에 맞는 폴더들만 리스트로 수집
+        target_folders = [p for p in INPUT_DIR.iterdir() if p.is_dir() and folder_pattern.match(p.name)]
+        
+        if not target_folders:
+            print(f"⚠️ '{INPUT_DIR.name}' 폴더 안에 '001-010', '011-020' 형식의 폴더를 찾을 수 없습니다.")
+        else:
+            print(f"총 {len(target_folders)}개의 대상 폴더를 찾았습니다. 작업을 시작합니다...\n")
+            
+            # 찾은 폴더들을 이름순으로 정렬하여 차례대로 퀴즈 생성
+            for folder in sorted(target_folders):
+                generate_quiz_for_folder(folder, OUTPUT_DIR)
+                
+            print(f"\n🎉 모든 작업이 완료되었습니다! 결과물은 '{OUTPUT_DIR.name}' 폴더를 확인하세요.")
