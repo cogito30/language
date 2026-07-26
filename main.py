@@ -14,18 +14,18 @@ def create_vocab_folders_and_files(base_directory: str):
     file_counter = 1  # 001 ~ 100까지 파일 번호를 카운트하기 위한 변수
 
     # 2. 총 10개의 폴더를 생성하는 반복문
-    for folder_idx in range(1, 11):
+    for folder_idx in range(1, 31):
         # 폴더 이름 생성 (예: 001-010, 011-020 ... 091-100)
-        start_num = (folder_idx - 1) * 10 + 1
-        end_num = folder_idx * 10
-        folder_name = f"{start_num:03d}-{end_num:03d}"
+        start_num = folder_idx
+        folder_name = f"day_{start_num:03d}"
         folder_path = base_path / folder_name
         
         # 폴더 생성
         folder_path.mkdir(exist_ok=True)
-        
+
+        file_counter = folder_idx * 10 + 1
         # 3. 각 폴더 안에 10개의 마크다운 파일 생성
-        for _ in range(10):
+        for _ in range(5):
             file_name = f"{file_counter:03d}.md"
             file_path = folder_path / file_name
             
@@ -42,6 +42,6 @@ def create_vocab_folders_and_files(base_directory: str):
 # 실행 부분
 if __name__ == "__main__":
     # 파일들이 생성될 최상위 폴더명 지정 (원하는 경로로 수정 가능)
-    TARGET_DIR = './Vocabulary_Files'
+    TARGET_DIR = './vocabulary_02'
     
     create_vocab_folders_and_files(TARGET_DIR)

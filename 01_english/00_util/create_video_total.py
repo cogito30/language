@@ -47,7 +47,7 @@ if __name__ == "__main__":
     BASE_DIR = Path('.')
     
     # 입력으로 사용할 폴더 경로
-    CARD_DIR = BASE_DIR / 'Card_Results'
+    CARD_DIR = BASE_DIR / 'Card_Total_Results'
     AUDIO_DIR = BASE_DIR / 'Audio_Results'
     
     # 출력물을 저장할 새 폴더 경로

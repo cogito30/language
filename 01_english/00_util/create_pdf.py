@@ -52,7 +52,7 @@ def create_a4_page(page_cards, title, font_path):
 # ==========================================
 if __name__ == "__main__":
     BASE_DIR = Path('.')
-    CARD_DIR = BASE_DIR / 'Card_Results'
+    CARD_DIR = BASE_DIR / 'Card_Total_Results'
     PDF_DIR = BASE_DIR / 'PDF_Results'
     
     # Mac / Windows 기본 폰트 설정
