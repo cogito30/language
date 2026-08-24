@@ -201,8 +201,20 @@
 - My seat number is 7C.
 - Can I get by?
 ---
-
+- Do you have a city map?
+- Do you have tourist brochures?
+- Do you have brochures in Korean?
+- Do you have a Korean guide?
+- Can I get some tour information?
+- How can I get there?
+- Is there any city tour bus?
+- Can I make a reservation here?
+- What package tours do you have?
+- How much is it?
 ---
+- 
+---
+- 
 ---
 
 ## 8. 거리
