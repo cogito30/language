@@ -7,7 +7,7 @@
 
 ## 8월 4주차
 - Term: 2026.08.24.-2026.08.28
-- Result: 🟢 🔴
+- Result: 1🟢 🔴
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
