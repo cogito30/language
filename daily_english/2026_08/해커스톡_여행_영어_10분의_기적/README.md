@@ -181,7 +181,16 @@
 - I booked it online.
 - Here is my receipt.
 ---
-- 
+- Can I rent an audio guide?
+- Can I rent a bike?
+- Can I rent a stroller?
+- Can I rent a snorkel?
+- How much is the rental fee?
+- How much is it per hour?
+- It's not working.
+- Is there a deposit?
+- Is it free to use?
+- When should I return it?
 ---
 
 ---
