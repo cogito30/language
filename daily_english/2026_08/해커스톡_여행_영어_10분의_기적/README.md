@@ -4,9 +4,7 @@
 - [해커스톡 유튜브](https://www.youtube.com/@hackerstalk/videos)
 - [해커스톡 여행 영어 10분의 기적](https://www.hackers.co.kr/?c=s_eng/eng_contents/eng_daily_speak/daily_speak_book)
 
-## 1. 거리
-- How do I get to this address?
-- Where is the train station? 
+## 1. 
 - 
 ---
 - 
@@ -192,13 +190,22 @@
 - Is it free to use?
 - When should I return it?
 ---
-
+- Can you change seats with me?
+- Can you hold my spot?
+- Can you move your bag?
+- Can you keep it down?
+- Can you sit down?
+- Can I sit with my friend?
+- What is this line for?
+- You are blocking my sight.
+- My seat number is 7C.
+- Can I get by?
 ---
 
 ---
 ---
 
-## 
+## 8. 거리
 - 
 ---
 - 
