@@ -33,7 +33,16 @@
 - What is included in the tour?
 - Can you pick me up at the hotel?
 ---
-- 
+- Can I cancel the tour?
+- Can I cancel one ticket only?
+- Can I get a full refund?
+- Can I change it to the next one?
+- Is there any extra charge?
+- Is there a cancellation fee?
+- What time is the next show?
+- I booked it yesterday.
+- I booked it online.
+- Here is my receipt.
 ---
 
 ---
