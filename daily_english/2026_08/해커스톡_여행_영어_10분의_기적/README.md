@@ -8,3 +8,27 @@
 - How do I get to this address?
 - Where is the train station?
 - 
+
+
+## 관광
+- Three tickets, please
+- Two tickets for adults, please
+- Two adults and one child, please
+- Two tickets for tonight's show, please
+- How much is the ticket?
+- Is it sold out?
+- When does the show start?
+- Can I get front row seats?
+- What is the most popular show?
+- What is the admission fee?
+---
+
+---
+
+---
+
+---
+
+---
+
+---
