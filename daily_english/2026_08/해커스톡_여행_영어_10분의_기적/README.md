@@ -22,7 +22,16 @@
 - What is the most popular show?
 - What is the admission fee?
 ---
-
+- I want to book a city tour.
+- I want to book a museum tour.
+- I want to book a bus tour.
+- I want to book a guided tour.
+- How much is this tour?
+- What time does the tour start?
+- What time does the tour end?
+- Is a meal included?
+- What is included in the tour?
+- Can you pick me up at the hotel?
 ---
 
 ---
