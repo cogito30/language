@@ -18,7 +18,17 @@
 - Korean crew member
 - emergency exit seat
 ---
-- 
+- Chicken, please.
+- Beef, please.
+- Water, please.
+- Fish, please.
+- Can I have one more?
+- Can I have it later?
+- Can you heat this up?
+- Can you take this away?
+- I requested a special meal.
+- Do you have hot pepper paste?
+- Coke
 ---
 - 
 ---
