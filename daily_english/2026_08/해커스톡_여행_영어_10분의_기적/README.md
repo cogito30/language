@@ -97,9 +97,18 @@
 - How do I recline my seat?
 - tray table
 ---
-- 
+- Can you stop kicking my seat?
+- Can you turn off the light?
+- Can you keep it down?
+- Can you move your bag?
+- Can you help me with this?
+- Can I get by?
+- Can I recline my seat?
+- Can I borrow a pen?
+- Can I turn on the light?
+- Can you close your window shade?
+- seatback
 ---
-
 
 ## 2. 
 - 
