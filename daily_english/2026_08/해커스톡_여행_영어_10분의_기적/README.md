@@ -4,7 +4,7 @@
 - [해커스톡 유튜브](https://www.youtube.com/@hackerstalk/videos)
 - [해커스톡 여행 영어 10분의 기적](https://www.hackers.co.kr/?c=s_eng/eng_contents/eng_daily_speak/daily_speak_book)
 
-## 1. 
+## 1. 기내
 - Where is my seat?
 - Where is this seat?
 - Where is seat 23A?
@@ -110,12 +110,45 @@
 - seatback
 ---
 
-## 2. 
-- 
+## 2. 공항
+- Can I have a front row seat?
+- Can I have a window seat?
+- Can I have a different seat?
+- Can I have an aisle seat?
+- Here is my e-ticket.
+- Can we sit together?
+- What is the weight limit?
+- How much is the extra charge?
+- Please add it on my mileage.
+- Can I carry this on board?
+- emergency exit seat
+- passport
+- boarding pass
 ---
-- 
+- It's a coin.
+- It's my phone.
+- It's a laptop.
+- It's a belt.
+- I'm pregnant.
+- Can I go now?
+- I have a metal pin in my arm.
+- I have nothing in my pockets.
+- Should I take this off?
+- Should I throw this out?
+- wallet
 ---
-- 
+- Do you have this color?
+- Do you have this lotion?
+- Do you have this model?
+- Do you have a cheaper one?
+- Can I pay with US dollars?
+- Can I use this coupon?
+- Can you wrap this?
+- Can I carry this on board?
+- recommendation
+- sunglasses
+- perfume
+- duty-free shop
 ---
 - 
 ---
