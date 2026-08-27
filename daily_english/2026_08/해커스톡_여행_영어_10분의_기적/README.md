@@ -40,6 +40,11 @@
 - Do you have any chocolate?
 - Are the snacks free?
 - What snacks do you have?
+- Sprite
+- Cookies
+- Instant noodles
+- peanuts
+- chips
 ---
 - 
 ---
