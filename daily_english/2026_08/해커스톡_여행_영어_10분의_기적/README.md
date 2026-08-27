@@ -15,8 +15,8 @@
 - Can you change seats with me?
 - Can I change my seat?
 - Where should I put my bag?
-+) Korean crew member
-+) emergency exit seat
+- Korean crew member
+- emergency exit seat
 ---
 - 
 ---
