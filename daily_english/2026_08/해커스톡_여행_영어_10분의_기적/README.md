@@ -71,7 +71,19 @@
 - address
 - arrival card
 ---
-- 
+- I want this perfume.
+- I want this chocolate.
+- I want this whisky.
+- I want this lipstick.
+- I'll take two.
+- Can I pay with cash?
+- Can I pay with a credit card?
+- What is the exchange rate?
+- Do you accept Korean won?
+- Are they sold out?
+- cosmetics
+- catalogs
+- cigarette
 ---
 - 
 ---
