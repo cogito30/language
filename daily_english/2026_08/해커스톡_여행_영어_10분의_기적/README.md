@@ -5,7 +5,18 @@
 - [해커스톡 여행 영어 10분의 기적](https://www.hackers.co.kr/?c=s_eng/eng_contents/eng_daily_speak/daily_speak_book)
 
 ## 1. 
-- 
+- Where is my seat?
+- Where is this seat?
+- Where is seat 23A?
+- Where is the restroom?
+- Is this your seat?
+- This is my seat.
+- Someone is my seat.
+- Can you change seats with me?
+- Can I change my seat?
+- Where should I put my bag?
++) Korean crew member
++) emergency exit seat
 ---
 - 
 ---
