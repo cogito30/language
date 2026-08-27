@@ -11,7 +11,7 @@
 - Where is the restroom?
 - Is this your seat?
 - This is my seat.
-- Someone is my seat.
+- Someone is in my seat.
 - Can you change seats with me?
 - Can I change my seat?
 - Where should I put my bag?
