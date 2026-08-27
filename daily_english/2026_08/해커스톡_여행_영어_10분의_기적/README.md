@@ -57,7 +57,19 @@
 - Do you have a toothpaste?
 - Do you have any mouthwash?
 ---
-- 
+- Can you help me?
+- Can you explain this?
+- Can you check this?
+- Can you give me one more form?
+- What does this mean?
+- I can't read English.
+- I can't write this in English.
+- What is the flight number?
+- Can I have a customs form?
+- Can I have a form in Korean?
+- borrow a pen
+- address
+- arrival card
 ---
 - 
 ---
