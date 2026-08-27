@@ -46,7 +46,16 @@
 - peanuts
 - chips
 ---
-- 
+- Can I get a pen?
+- Can I get a blanket?
+- Can I get a pillow?
+- Can I get slippers?
+- Can I get some napkins?
+- Can I get some earplugs?
+- Can I get a sleeping mask?
+- Do you have a toothbrush?
+- Do you have a toothpaste?
+- Do you have any mouthwash?
 ---
 - 
 ---
