@@ -85,7 +85,17 @@
 - catalogs
 - cigarette
 ---
-- 
+- How can I use this remote?
+- How can I turn on the light?
+- How can I turn up the volume up?
+- How can I watch movies?
+- It's not working.
+- The screen is frozen.
+- There is no sound.
+- Does it have Korean subtitles?
+- My seatbelt is stuck.
+- How do I recline my seat?
+- tray table
 ---
 - 
 ---
