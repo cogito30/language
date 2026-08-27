@@ -30,7 +30,16 @@
 - Do you have hot pepper paste?
 - Coke
 ---
-- 
+- Can I have some wine?
+- Can I have some beer?
+- Can I have some coffee?
+- Can I have some snacks?
+- Can I have some juice?
+- Can I have some ice?
+- Can I have some bread?
+- Do you have any chocolate?
+- Are the snacks free?
+- What snacks do you have?
 ---
 - 
 ---
