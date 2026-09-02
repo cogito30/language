@@ -76,9 +76,31 @@
 ---
 
 ## 이용 시간 문의할 때
-- 
+- When is the spa open?
+- 스파는 언제 여나요?
+- When is the gym open?
+- 헬스장은 언제 여나요?
+- When is the pool open?
+- 수영장은 언제 여나요?
+- When is the restaurant open?
+- 식당은 언제 여나요?
 ---
-- 
+- When does breakfast open?
+- 조식은 언제 끝나요?
+- When does the pool close?
+- 수영장은 언제 닫아요?
+- When does the restaurant close?
+- 식당은 언제 닫나요?
+- Is the gym open 24hours?
+- 헬스장은 24시간 여나요?
+- What are the hours for daycare?
+- 탁아서비스 이용 시간은 언제인가요?
+- When can I use the massage shop?
+- 마사지 샵은 언제 이용할 수 있나요?
+---
+- 24 hours: 24시간
+- daycare: 탁아서비스
+- laundry room: 세탁실
 ---
 
 ## 
