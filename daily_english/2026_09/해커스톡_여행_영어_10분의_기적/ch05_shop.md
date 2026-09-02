@@ -1,6 +1,6 @@
 # Shop(쇼핑)
 
-## 제품이 있는지 문의할 ㄸ깨
+## 제품이 있는지 문의할 때
 - Do you have this sunscreen?
 - 이 선크림 있나요?
 - Do you have this perfume?
@@ -30,7 +30,7 @@
 - local product: 지역 특산품
 - recommendation: 추천
 ---
-## 
+## 착용/사용 요청할 때
 - 
 ---
 - 
