@@ -48,14 +48,34 @@
 ---
 
 ## 체크인/아웃 문의할 때
-- 
+- Can I check in now?
+- 지금 체크인할 수 있나요?
+- Can I check out now?
+- 지금 체크아웃할 수 있나요?
+- Can I check in early?
+- 일찍 체크인할 수 있나요?
+- Can I check out late?
+- 늦게 체크아웃할 수 있나요?
 ---
-- 
+- I have a reservation.
+- 예약했어요.
+- Here is my voucher.
+- 여기 제 바우처요.
+- Here is my passport.
+- 여기 제 여권이요.
+- What time is check-out?
+- 체크아웃은 몇 시예요?
+- How much is late check-out?
+- 레이트 체크아웃은 얼마예요?
+- Can you store my baggage?
+- 짐 좀 보관해줄 수 있나요?
 ---
-- 
+- extend: 연장하다
+- store baggage: 짐을 보관하다
+- voucher: 예약 증서, 바우처
 ---
 
-## 
+## 이용 시간 문의할 때
 - 
 ---
 - 
