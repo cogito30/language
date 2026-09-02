@@ -103,10 +103,17 @@
 - laundry room: 세탁실
 ---
 
-## 
+## 객실 내 문제 해결 요청할 때
 - 
 ---
 - 
+---
+- AC: 에어컨
+- heater: 히터
+- window: 창문
+- fridge: 냉장고
+- shower: 샤워기
+- toilet: 변기
 ---
 
 ## 
