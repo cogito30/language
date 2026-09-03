@@ -31,13 +31,36 @@
 - recommendation: 추천
 ---
 ## 착용/사용 요청할 때
-- 
+- Can I try this on?
+- 이것을 착용해 볼 수 있나요?
+- Can I try anoter one?
+- 다른 것을 착용해 볼 수 있나요?
+- Can I try another color?
+- 다른 색상을 착용해 볼 수 있나요?
+- Can I try another size?
+- 다른 사이즈를 착용해 볼 수 있나요?
 ---
-- 
+- Can I try this?
+- 이것을 사용해 볼 수 있나요?
+- Can you show me another one?
+- 다른 것을 보여줄 수  있나요?
+- Do you have a smaller one?
+- 더 작은 것 있나요?
+- Do you have a larger one?
+- 더 큰 것 있나요?
+- Where is the fitting room?
+- 탈의실이 어디예요?
+- I like this one better.
+- 이것이 더 마음에 들어요.
 ---
-- 
+- try: 사용해보다
+- another one: 다른 것
+- smaller one: 더 작은 것
+- larger one: 더 큰 것
+- another color: 다른 색상
+- fitting room: 탈의실
 ---
-## 
+## 가격 문의할 때
 - 
 ---
 - 
